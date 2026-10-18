@@ -1,11 +1,11 @@
 *Deep Learning-Based Adaptive Channel Code Selection for UAV-to-Ground Broadcast Communications in 6G*
-&nbsp;
+<br>
 Course: CS 747 – Deep Learning
-&nbsp;
+<br>
 Team Members: Farhan Nawaz, Manju Nagesh 
-&nbsp;
+<br>
 Project Status: In Development
-&nbsp;
+<br>
 
 Project Overview-
 This project investigates the use of deep learning to improve the reliability and efficiency of UAV-to-ground broadcast communications in 6G wireless networks.
