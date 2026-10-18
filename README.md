@@ -11,13 +11,13 @@ The goal is to develop a deep learning-based system that adaptively selects Pola
 We compare reactive and predictive deep learning approaches to determine whether incorporating historical channel information improves coding decisions, particularly during rapidly changing wireless conditions.
 
 Research Objectives-
-1.) Develop a UAV-to-ground broadcast communication simulator.
-2.) Model time-varying wireless channels using Rician fading.
-3.) Evaluate Polar-code configurations under different channel conditions.
-4.) Generate simulated datasets for supervised deep learning.
-5.) Implement and compare reactive and predictive neural networks.
-6.) Evaluate broadcast reliability, coverage, and effective throughput.
-7.) Investigate how UAV mobility affects model performance.
+1. Develop a UAV-to-ground broadcast communication simulator.
+2. Model time-varying wireless channels using Rician fading.
+3. Evaluate Polar-code configurations under different channel conditions.
+4. Generate simulated datasets for supervised deep learning.
+5. Implement and compare reactive and predictive neural networks.
+6. Evaluate broadcast reliability, coverage, and effective throughput.
+7. Investigate how UAV mobility affects model performance.
 
 System Features-
 The system uses four channel-related features for each ground sensor: SNR (Signal-to-Noise Ratio, representing received signal quality), K-factor (Rician fading parameter representing line-of-sight strength), Elevation (Angle between the ground sensor and UAV), Distance.
