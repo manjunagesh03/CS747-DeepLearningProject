@@ -48,10 +48,10 @@ Methodology-
   Compare the models against fixed and random baselines using metrics such as: Broadcast coverage, Bit Error Rate (BER) or Block Error Rate (BLER), Effective throughput, Performance under different UAV mobility conditions.
 
 Technologies-
-Python — Main programming language
-NVIDIA Sionna — Wireless communication and Polar-code simulations
-TensorFlow / Keras — Neural network development
-NumPy / Pandas — Numerical computation and data processing
-Matplotlib — Experimental plots and visualization
-Git / GitHub — Version control and collaboration
+Python (Main programming language),
+NVIDIA Sionna (Wireless communication and Polar-code simulations),
+TensorFlow/Keras (Neural network development),
+NumPy/Pandas (Numerical computation and data processing),
+Matplotlib (Experimental plots and visualization),
+Git/GitHub (Version control and collaboration)
 
